@@ -22,7 +22,7 @@ Dataset: https://storage.googleapis.com/luizalabs-hiring-test/clientes_pedidos.c
 ### Introdução
 
 Iniciei o desenvolvimento e teste exploratório dos dados no Google Colab, e exportei para um jupyter notebook. 
-O código exploratório se encontra dentro da pasta [notebook]("./notebook/Luiza_Labs.ipynb").
+O código exploratório se encontra dentro da pasta *notebook*.
 
 ### Aplicação
 
