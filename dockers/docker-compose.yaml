@@ -11,7 +11,7 @@ services:
       - 8888:8888
     volumes:
       - shared-workspace:/opt/workspace
-      - ../src:/home/src
+      - ../app:/home/app
   spark-master:
     image: spark-master
     container_name: spark-master
